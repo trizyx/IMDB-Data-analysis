@@ -4,7 +4,7 @@
 ## About <a name = "about"></a>
 **Analyzing movie data from the IMDB website**
 
-*data.csv* - **ALL DATA**
+*data.csv* - **ALL DATA** ||
 *Untitled3.ipynd* - **COLABORATORY FILE**
 ## DATA INFO
 
