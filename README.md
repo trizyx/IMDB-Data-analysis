@@ -2,4 +2,4 @@
 
 
 ## About <a name = "about"></a>
-The analysis of data about movies from IMDB
+**Analyzing movie data from the IMDB website**
