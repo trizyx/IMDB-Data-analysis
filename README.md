@@ -1,3 +1,5 @@
+![alt text](https://github.com/trizyx/IMDB-Data-analysis/blob/main/Frame%201.png?raw=true)
+
 # IMDB-Data-analysis
 
 
